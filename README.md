@@ -51,19 +51,19 @@ Before starting this make sure to follow all the steps in the previous sections 
 For starting the GUI, load app.R and prediction.R file into the R environment. First run the prediction.R file so that all the required functions are present for using the app. Now simply run the application using the Run app button located at the top of the app.R script. Simply input the Title of the question and Body of the question and press submit to see the results.
 
 ## 3.	A file manifest (list of files included)
-This zip contains 7 files:
+This repository contains 7 files:
 
-## SVM.R
+SVM.R
 
-## prediction.R
+prediction.R
 
-## app.R
+app.R
 
-## con_db.R
+con_db.R
 
-## trainingdata.sql
+trainingdata.sql
 
-## TrainingSet.csv
+TrainingSet.csv
 
 
 
